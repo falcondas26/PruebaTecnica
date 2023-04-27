@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110.66811mm"
+   height="110.22408mm"
+   viewBox="0 0 110.66811 110.22408"
+   version="1.1"
+   id="svg1316"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="bitmap.svg"
+   inkscape:export-filename="..\..\ProyectoPruebaTecnica\ptecnica\src\assets\bitmap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1318"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52724989"
+     inkscape:cx="195.35329"
+     inkscape:cy="716.9276"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1313" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.472395,-58.791174)">
+    <g
+       id="g90"
+       transform="matrix(0.35277777,0,0,-0.35277777,128.43495,111.80168)">
+      <path
+         d="m 0,0 c 0,-81.886 -66.38,-148.272 -148.266,-148.272 -81.886,0 -148.259,66.386 -148.259,148.272 0,81.879 66.373,148.266 148.259,148.266 C -66.38,148.266 0,81.879 0,0 Z"
+         style="fill:none;stroke:#08e200;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path92" />
+    </g>
+    <g
+       id="g94"
+       transform="matrix(0.35277777,0,0,-0.35277777,88.049484,166.88444)"
+       style="fill:#497d98;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
+      <path
+         d="M 0,0 C -5.032,-1.159 -10.182,-2.094 -15.388,-2.76"
+         style="fill:#497d98;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path96" />
+    </g>
+    <g
+       id="g98"
+       transform="matrix(0.35277777,0,0,-0.35277777,74.384496,168.3097)">
+      <path
+         d="M 0,0 C -82.401,1.467 -149.332,65.307 -156.491,145.615"
+         style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path100" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.6398px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;white-space:pre;inline-size:74.9413;display:inline;fill:#ffffff;stroke-width:0.483744"
+       x="33.498085"
+       y="117.82354"
+       id="text1461"
+       transform="matrix(1.1551652,0,0,1.1551652,-3.9737544,-14.479497)"><tspan
+         x="33.498085"
+         y="117.82354"
+         id="tspan16946">INICIAR</tspan></text>
+  </g>
+</svg>
